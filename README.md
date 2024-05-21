@@ -31,3 +31,19 @@ To run this project locally, follow these steps:
 
    ```bash
    cd your-repository
+
+
+3. **Open the index.html file in your browser:**
+
+   You can simply open the file in a web browser, or use a local server for a better development experience
+
+
+## Usage
+
+You can visit the live website hosted on GitHub Pages: https://www.tinyurl.com/davitacols
+
+To customize the content:
+
+- **HTML Files: Update the content in the HTML files to reflect your own information.**
+- **CSS Files: Modify the CSS files to change the styles and animations.**
+- **JavaScript Files: Update the JavaScript files to add or modify interactive elements.**
